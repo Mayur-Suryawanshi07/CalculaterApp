@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <!-- Primary Colors -->
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryDark">#3700B3</color>
+        <color name="colorAccent">#03DAC5</color>
+
+        <!-- Neutral Colors -->
+        <color name="white">#FFFFFF</color>
+        <color name="black">#000000</color>
+        <color name="gray">#808080</color>
+        <color name="lightGray">#D3D3D3</color>
+        <color name="darkGray">#A9A9A9</color>
+
+        <!-- Red Shades -->
+        <color name="red">#FF0000</color>
+        <color name="lightRed">#FFCDD2</color>
+        <color name="darkRed">#B71C1C</color>
+
+        <!-- Blue Shades -->
+        <color name="blue">#0000FF</color>
+        <color name="lightBlue">#BBDEFB</color>
+        <color name="darkBlue">#0D47A1</color>
+
+        <!-- Green Shades -->
+        <color name="green">#00FF00</color>
+        <color name="lightGreen">#C8E6C9</color>
+        <color name="darkGreen">#1B5E20</color>
+
+        <!-- Yellow Shades -->
+        <color name="yellow">#FFFF00</color>
+        <color name="lightYellow">#FFF9C4</color>
+        <color name="darkYellow">#F57F17</color>
+
+        <!-- Orange Shades -->
+        <color name="orange">#FFA500</color>
+        <color name="lightOrange">#FFE0B2</color>
+        <color name="darkOrange">#E65100</color>
+
+        <!-- Purple Shades -->
+        <color name="purple">#800080</color>
+        <color name="lightPurple">#E1BEE7</color>
+        <color name="darkPurple">#4A148C</color>
+
+        <!-- Pink Shades -->
+        <color name="pink">#FFC0CB</color>
+        <color name="lightPink">#F8BBD0</color>
+        <color name="darkPink">#880E4F</color>
+
+        <!-- Teal Shades -->
+        <color name="teal">#008080</color>
+        <color name="lightTeal">#B2DFDB</color>
+        <color name="darkTeal">#004D40</color>
+
+        <!-- Brown Shades -->
+        <color name="brown">#A52A2A</color>
+        <color name="lightBrown">#D7CCC8</color>
+        <color name="darkBrown">#3E2723</color>
+
+        <!-- Custom Colors -->
+        <color name="customColor1">#123456</color>
+        <color name="customColor2">#654321</color>
+    </resources>
+
